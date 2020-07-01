@@ -1,3 +1,6 @@
+*Update on 07/01/20: you can find the notebooks that apply GBS on these examples
+[here](https://github.com/HerculesJack/bayesfast/tree/master/examples).*
+
 Generating the samples of the *Funnel*, *Banana* and *Cauchy* examples
 in the GBS paper:
 
